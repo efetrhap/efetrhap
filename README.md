@@ -2,37 +2,56 @@
 
 # efeXdev
 
-**Full-Stack Developer & Game Framework Systems Architect**  
-*Building scalable FiveM ecosystems, modern NUI web applications & core infrastructures.*
+**Full-Stack Software Engineer & Multiplayer Infrastructure Architect**
 
----
-
-[![GitHub followers](https://img.shields.io/github/followers/efetrhap?label=Follow&style=for-the-badge&color=24292e&logo=github)](https://github.com/efetrhap)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:efecke91@gmail.com)
+Specializing in FiveM/RedM core systems, modern NUI web ecosystems, and scalable backend services.
 
 <br/>
 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/efetrhap)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Tebex](https://img.shields.io/badge/Store-Tebex-00A651?style=for-the-badge&logo=googlepay&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:efecke91@gmail.com)
+
+---
+
+</div>
+
+### About Me
+
+* **Backend & Systems:** Designing high-performance game logic, event security layers, and database architectures.
+* **Modern Frontend & NUI:** Crafting fluid, responsive user interfaces using modern JavaScript/TypeScript ecosystems.
+* **Architecture:** Focused on clean code, modular script ecosystems, and 0.00ms idle execution loops.
+
+---
+
 ### Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,ts,js,react,tailwind,vite,nextjs,nodejs,python,cs,mysql,git" alt="Tech Stack" />
+**Core & Systems**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=lua,ts,js,python,cs,mysql" alt="Systems Stack" />
+</p>
+
+**Web & NUI Engineering**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css" alt="Frontend Stack" />
+</p>
+
+**Infrastructure & Workflow**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,nodejs" alt="Tools" />
 </p>
 
 ---
 
-### Connect
+### Featured Domains
 
-<p align="center">
-  <a href="mailto:efecke91@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://discord.gg/">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://github.com/efetrhap">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+| Domain | Focus Areas | Key Technologies |
+| :--- | :--- | :--- |
+| **Game Frameworks** | Qbox, QB-Core, Custom Handlers, Net Events | Lua, oxmysql, Ox Lib |
+| **NUI Dashboards** | Responsive Panels, Inventory, Banking, MDC | React, Vite, TailwindCSS |
+| **Security & Systems** | Rate Limiting, Event Protection, Exploit Patches | Server-side Lua, Python Scripts |
 
-</div>
+---
+
+<div align="center">
