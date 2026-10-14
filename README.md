@@ -11,7 +11,7 @@ Specializing in FiveM/RedM core systems, modern NUI web ecosystems, and scalable
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/efetrhap)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 [![Tebex](https://img.shields.io/badge/Store-Tebex-00A651?style=for-the-badge&logo=googlepay&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:efecke91@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ochibadevelopment@gmail.com)
 
 ---
 
